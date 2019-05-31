@@ -1,0 +1,89 @@
+        <header class="header">
+          <div class="top-menu">
+
+            <div class="logo">
+                Техномарт
+            </div>
+
+            <div class="search">
+                <i class="fas fa-search"></i>
+                <input type="text" placeholder="поиск"></input>
+            </div>
+
+            <div class="btns">
+                <div class="btn-bookmark">
+                    <i class="fas fa-bookmark"></i>
+                    Закладки
+                </div>
+                <div class="btn-cart">
+                    <i class="fas fa-shopping-cart"></i>
+                    Корзина
+                </div>
+                <div class="btn-order">
+                    Оформить заказ
+                </div>
+            </div>
+
+            </div>
+
+
+            <div class="container-contact">
+                <div class="inform">
+                <div class="inscription">
+                  <i> Интернет-магазин<br> строительных материалов<br> и инструментов для ремонта</i>
+               </div>
+
+                <div class="phone">
+
+                <div class="num">
+                    <i class="fas fa-phone"></i>
+                <span class="number">
+                    8 910 344 19 39
+                </span>
+                </div>
+                <span class="addr">
+                    г.Санкт-Петербург, ул.Конюшенная, д.19/8
+                </span>
+                </div>
+
+        <div class="communication">
+                <div class="name">
+                    <i class="fas fa-user"></i>
+
+                    <span class="name1">Равшан Джамшутович</span>
+                    <i class="fas fa-sign-out-alt"></i>
+                </div>
+                <div class="order">
+                    Мои заказы
+                </div>
+                <div class="point"></div>
+                <div class="personal-accout">
+                    Личный кабинет
+                </div>
+                </div>
+            </div>
+</div>
+<ul class="menu">
+    <li class="li">
+        Главная
+    </li>
+    <li class="li">
+        Компания
+    </li>
+    <li class="li">
+        Каталог
+    </li>
+    <li class="li">
+        Новости
+    </li>
+    <li class="li">
+        Спецпредложения
+    </li>
+    <li class="li">
+        Доставка
+    </li>
+    <li class="li">
+        Контакты
+    </li>
+</ul>
+    </header>
